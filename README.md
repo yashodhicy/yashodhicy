@@ -1,7 +1,7 @@
 ### Hi there 👋 Hope you have a great day.
 🌱 I worked as a QA Engineer nearly 2 years.<br />
 🔭 I’m currently working on developing the skills on software development.<br />
-👯 I’m looking to be a student on Microverse.<br />
+👯 I’m a student on Microverse.<br />
 💬 Ask me about python.<br />
 <!--
 **yashodhicy/yashodhicy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
