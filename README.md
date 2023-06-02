@@ -1,3 +1,6 @@
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=500&color=024FF7&width=435&lines=Welcome+to+my+Git+home;It+is+so+nice+to+see+you+;Let's+talk+about+software+development;I+hope+you+will+get+something+from+here;Have+a+nice+day!)](https://git.io/typing-svg)
+<br>
 <img align="center" src="gitreadme/welcome to MY GITHUB.gif" />
 <br/>
 <br/>
