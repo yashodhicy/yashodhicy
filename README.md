@@ -4,7 +4,7 @@
 <br>
 <br/>
 <br/>
-💻 Passionate Full stack software Developer with more than 2 years experience. <br/>
+💻 Passionate Full stack software Developer with more than 2 years of experience. <br/>
 🌱 I worked as a QA Engineer for nearly 2 years.<br />
 🦋 Open to opportunities 🐣
 
